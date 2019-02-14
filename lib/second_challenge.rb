@@ -7,13 +7,32 @@ def second_challenge
       matriarch: {
 
       },
-      hero: {
+      heroine: {
 
       },
-      hero_friends: [{}]
+      heroine_friends: [
+        {
+
+          }
+        ]
       },
     :capulet => {
-      #your key/value pairs here!
+      :montague => {
+        patriarch: {
+
+        },
+        matriarch: {
+
+        },
+        hero: {
+
+        },
+        hero_friends: [
+          {
+
+            }
+          ]
+
       }}
 
 
