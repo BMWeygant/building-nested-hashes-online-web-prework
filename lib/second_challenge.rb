@@ -11,11 +11,11 @@ def second_challenge
       hero: {
 
       },
-      hero_friends: [
+      hero_friends: 
         {
 
           }
-        ]
+        
       },
     :capulet => {
 
@@ -28,11 +28,11 @@ def second_challenge
         heroine: {
 
         },
-        heroine_friends: [
+        heroine_friends: 
           {
 
             }
-          ]
+          
 
       }}
 
